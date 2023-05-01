@@ -1,4 +1,4 @@
- you can reach me on 📫 ljj0512@gmail.com
+ you can reach me on 📫 jaejung.lee2@gmail.com
 
 <!--
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
