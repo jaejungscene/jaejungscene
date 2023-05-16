@@ -1,4 +1,4 @@
- you can reach me on 📫 jaejung.lee2@gmail.com
+<p align="center">We become what we think about</p>
 
 <!--
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
