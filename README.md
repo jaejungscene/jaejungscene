@@ -1,6 +1,2 @@
 📫 <a href="mailto:ljj0512@gmail.com">ljj0512@gmail.com</a>
-<!-- 이 내용은 주석으로 처리되어 보이지 않습니다. 
-📚 <a href="https://jaejung.notion.site/Jaejung-Scene-s-Blog-Mind-map-6c6bef1b9e0441e79098df80e1687bf1?pvs=4">Notion Blog</a>
-📚 <a href="https://jaejung.notion.site/Jaejung-Scene-s-Blog-Mind-map-6c6bef1b9e0441e79098df80e1687bf1?pvs=4">Notion Blog</a>  
-📝 <a href="https://docs.google.com/document/d/1qglZ8UFOTVsmTtlQVdgVsQSWvaXfA5kpx77LWGAOkNw/edit?usp=sharing">Résumé</a> 
--->
+스트림 처리, 분산 시스템, AI & MLOps 에 관심이 많습니다.
