@@ -1,1 +1,1 @@
-스트림 처리, 분산 시스템, AI & MLOps 에 관심이 많습니다.😎
+Stream Processing, Distributed System, Data Platform Engineering에 관심이 많습니다.🥸
