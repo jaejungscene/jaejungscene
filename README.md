@@ -1,1 +1,1 @@
-Stream Processing, Distributed System, Data Platform Engineering, DL/ML에 관심이 많습니다.🥸
+Data Engineering, DL/ML 및 AI System에 관심이 많습니다.🥸
