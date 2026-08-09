@@ -1,1 +1,1 @@
-Data Engineering, DL/ML, AI System에 관심이 많습니다.🥸
+DL/ML, MLOps, AI System, Data Engineering에 관심이 많습니다.
